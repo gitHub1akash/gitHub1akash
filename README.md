@@ -3,7 +3,7 @@
 
 - 🌱 I’m completed **Spring Boot**
 
-- 💬 Ask me about **react, JAVA**
+- 💬 Ask me about JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
