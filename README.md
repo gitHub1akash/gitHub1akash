@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m completed **Spring Boot**
+- 🌱I have completed **Spring Boot**
 
-- 💬 Ask me about JAVA**
+- 💬 Ask me about JAVA**, mySql**, Oops**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
